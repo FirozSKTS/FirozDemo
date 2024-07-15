@@ -1,8 +1,8 @@
 # FirozDemo
-public class FirozDEmo
-{
+public class FirozDEmo 
+{<br>
    public static void main (String[]args)
-   {
-     S.o.t("Hello");
-   }
+   {<br>
+     S.o.t("Hello");<br>
+   }<br>
 }
